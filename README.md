@@ -2,7 +2,7 @@
 
 - 😎 I`m Gabriel Bellon, aka Gabu, and this my github !!
 - 🕸 You can check my personal page on [gabubellon.me](https://gabubellon.me)
-- 🔭 I’m currently working on [@Trusted Health](https://github.com/trusted)
+- 🔭 I’m currently open for new opportunitues
 - 🌱 I’m currently learning about politics, diversity, cooking and a lot of other thinks !
 - 💬 Ask me about Data !
 - 📫 How to reach me: talk@bllon.co
